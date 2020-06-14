@@ -12,7 +12,7 @@
 </p>
 <p>
     A API foi desenvolvida utilizando o PHP, visando desempenho e otimização do código foi utilizada as dependências da
-    biblioteca Route para tratamento de rotas e a Laminas para respostas. O JWT Token foi implementado utilizando a biblioteca
+    biblioteca Route para tratamento de rotas e a <a href="https://github.com/laminas/laminas-diactoros/">Laminas</a> para respostas. O JWT Token foi implementado utilizando a biblioteca
     do Lcobucci e por fim, foi utilizado o MySQL como banco de dados relacional.
 </p>
 <h3>Rotas: </h3>
