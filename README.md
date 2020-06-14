@@ -26,7 +26,7 @@
     <li> <strong>*(GET)</strong> /users/drink/rank => Retorna o usuário que mais bebeu naquele dia;</li>
 </ul>
 <p>
-    <strong>As rotas que possuem um asterisco antes do seu método são protegidas pela autenticação com Token.</strong>
+    <strong>As rotas que possuem um asterisco(*) antes do seu método são protegidas pela autenticação com Token.</strong>
 </p>
 <h3>Código para replicar o banco de dados:</h3>
 <p>
