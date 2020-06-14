@@ -11,7 +11,7 @@
     Para esse projeto não foi utilizado nenhum Framework para manipulação de rotas, banco de dados ou qualquer outra integração.
 </p>
 <p>
-    A API foi desenvolvida utilizando o PHP, visando desempenho e otimização do código foi utilizada as dependências da biblioteca <a href ="https://github.com/thephpleague/route">Route</a> para tratamento de rotas e a <a href="https://github.com/laminas/laminas-diactoros/">Laminas</a> para respostas. O JWT Token foi implementado utilizando a biblioteca do <a href ="https://github.com/lcobucci/jwt">Lcobucci</a> e por fim, foi utilizado o MySQL como banco de dados relacional.
+    A API foi desenvolvida utilizando o PHP. Visando desempenho e otimização do código foi utilizada as dependências da biblioteca <a href ="https://github.com/thephpleague/route">Route</a> para tratamento de rotas e a <a href="https://github.com/laminas/laminas-diactoros/">Laminas</a> para respostas. O JWT Token foi implementado utilizando a biblioteca do <a href ="https://github.com/lcobucci/jwt">Lcobucci</a> e por fim, foi utilizado o MySQL como banco de dados relacional.
 </p>
 <h3>Rotas: </h3>
 <ul>
