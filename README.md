@@ -47,3 +47,8 @@
 <p>
     <strong>Se for necessário alterar alguma configuração para acessar o banco de dados, basta acessar a classe DB dentro de App/Controllers</strong>
 </p>
+
+<hr>
+
+<h4>Considerações finais:</h4>
+<p>Após efetuar o download do projeto e criar o banco de dados conforme as instruções, basta efetuar esse comando a partir da pasta raiz do projeto: <strong>php -S localhost:8080 -t public</strong></p>
