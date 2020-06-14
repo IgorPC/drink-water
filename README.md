@@ -41,7 +41,9 @@
 <p>
     ALTER TABLE `drink_history` ADD CONSTRAINT `fk_id` FOREIGN KEY ( `user_id` ) REFERENCES `users` ( `id` ) ;
 </p>
-
+<ul>
+    <li><strong>O arquivo "processo_seletivo.sql" possui o mesmo script para criação do banco de dados</strong></li>
+</ul>
 <p>
     <strong>Se for necessário alterar alguma configuração para acessar o banco de dados, basta acessar a classe DB dentro de App/Controllers</strong>
 </p>
