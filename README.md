@@ -51,4 +51,4 @@
 <hr>
 
 <h4>Considerações finais:</h4>
-<p>Após efetuar o download do projeto e criar o banco de dados conforme as instruções, basta acessar a pasta raiz dod projeto e efetuar o comando <strong>composer install</strong> para instalar as depencias e depois o comando <strong>php -S localhost:8080 -t public</strong></p>
+<p>Após efetuar o download do projeto e criar o banco de dados conforme as instruções, basta acessar a pasta raiz do projeto e efetuar o comando <strong>composer install</strong> para instalar as dependências e depois o comando <strong>php -S localhost:8080 -t public</strong></p>
